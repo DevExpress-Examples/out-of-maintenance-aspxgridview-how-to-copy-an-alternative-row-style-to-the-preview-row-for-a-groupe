@@ -5,6 +5,9 @@
 * [Default.aspx.cs](./CS/Default.aspx.cs)
 <!-- default file list end -->
 # ASPxGridView - How to copy an alternative row style to the preview row for a grouped grid
+<!-- run online -->
+**[[Run Online]](https://codecentral.devexpress.com/t441828)**
+<!-- run online end -->
 
 
 <p>For this task, handle the <a href="https://documentation.devexpress.com/#AspNet/DevExpressWebASPxGridView_HtmlRowPreparedtopic">ASPxGridView.HtmlRowPrepared</a> event to add the required CSS class for the alternating preview rows:</p>
