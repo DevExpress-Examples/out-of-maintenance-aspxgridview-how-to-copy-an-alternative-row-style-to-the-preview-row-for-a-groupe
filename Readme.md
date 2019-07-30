@@ -6,7 +6,7 @@
 <!-- default file list end -->
 # ASPxGridView - How to copy an alternative row style to the preview row for a grouped grid
 <!-- run online -->
-**[[Run Online]](https://codecentral.devexpress.com/t441828)**
+**[[Run Online]](https://codecentral.devexpress.com/t441828/)**
 <!-- run online end -->
 
 
